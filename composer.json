@@ -1,0 +1,18 @@
+{
+    "name": "victor/files",
+    "description": "Backend",
+    "autoload": {
+        "psr-4": {
+            "Victor\\Files\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "P_viktor91@mail.ru"
+        }
+    ],
+    "require": {
+        "envms/fluentpdo": "^2.2"
+    }
+}
